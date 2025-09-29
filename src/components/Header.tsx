@@ -29,7 +29,7 @@ export default function Header() {
   return (
     <header className="bg-white shadow-sm border-b">
       {/* Test Site Banner */}
-      <div className="bg-yellow-400 text-black text-center py-2 px-4">
+      <div className="bg-black text-white text-center py-2 px-4">
         <p className="text-sm font-medium">
           ⚠️ TEST SITE - No actual payments will be processed
         </p>
